@@ -1,0 +1,19 @@
+{
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "An experiment on NFT puzzle pieces",
+  "main": "index.js",
+  "author": "George Hervey",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.7.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0"
+  }
+}
